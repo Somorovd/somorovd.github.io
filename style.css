@@ -1,0 +1,22 @@
+.technologies {
+  display: flex;
+  gap: 20px;
+}
+
+.technologies>img {
+  height: 70px;
+  aspect-ratio: 1;
+}
+
+.feature img {
+  width: 100%;
+  height: 100%;
+}
+
+#headshot {
+  border-radius: 50%;
+  margin: 30px;
+  height: 300px;
+  aspect-ratio: 1;
+  z-index: 10;
+}
