@@ -47,3 +47,7 @@
 .project-github i:hover {
   color: #555;
 }
+
+.img-cover {
+  object-fit: cover;
+}
