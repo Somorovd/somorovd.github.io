@@ -51,3 +51,20 @@
 .img-cover {
   object-fit: cover;
 }
+
+#p-resume {
+  color: #4eb980;
+  font-weight: bold;
+}
+
+#p-resume:hover {
+  text-decoration: underline;
+}
+
+#header>.icons {
+  margin-top: 2rem;
+}
+
+.icon {
+  color: white;
+}
